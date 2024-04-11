@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url(bwf.jpg);
+    background-size: cover;
+}
+
+#output-box {
+    width: 49.7vw;
+    padding: 5px;
+    margin-top: 2vh;
+    font-size: 20px;
+}
+
+fieldset {
+    width: 35vw;
+    border: 2px solid white;
+    padding: 15px;
+}
